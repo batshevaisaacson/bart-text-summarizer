@@ -14,4 +14,4 @@ Summarization helps students, professionals, and researchers save time by quickl
 3. The final summary highlights the main points while keeping coherence and readability.  
 
 ### Tools & Skills
-Python • Hugging Face Transformers • PyTorch • NLP • Text Summarization  
+Python • Hugging Face Transformers • PyTorch • Natural Language Processing (NLP) • Text Summarization  
