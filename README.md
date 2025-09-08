@@ -15,3 +15,7 @@ Summarization helps students, professionals, and researchers save time by quickl
 
 ### Tools & Skills
 Python • Hugging Face Transformers • PyTorch • Natural Language Processing (NLP) • Text Summarization  
+
+### Files / Links
+- [Python Script](bart_text_summarizer.py)
+- [Example Summaries](example_summaries.md)
